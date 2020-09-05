@@ -1,4 +1,4 @@
-# Currency Converter Colter
+# Currency Converter: A React.JS App
 In this assignment, you will create a React application that will convert various currencies.
 
 For the data, you will use the API [available here](https://ratesapi.io/)
